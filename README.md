@@ -21,7 +21,7 @@ Possuo conhecimentos em HTML5, CSS, JavaScript, C, Angular, Java, Python e C#, a
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a> 
-    <a href="https://github.com/LuanQS2?tab=followers">
+    <a href="https://github.com/LuanQS2">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
