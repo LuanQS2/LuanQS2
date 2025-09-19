@@ -150,7 +150,7 @@ Possuo conhecimentos em HTML5, CSS, JavaScript, C, Angular, Java, Python e C#, a
 <br/>
 
 ### 📊 Estatísticas
-p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -165,6 +165,5 @@ p>
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanQS2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
 
