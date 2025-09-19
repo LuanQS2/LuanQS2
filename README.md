@@ -7,14 +7,14 @@ Meu nome é Luan Qualhareli, tenho 20 anos e sou natural de Araraquara – SP. A
 Possuo conhecimentos em HTML5, CSS, JavaScript, C, Angular, Java, Python e C#, além de noções em banco de dados e Flutter. Durante minha trajetória acadêmica desenvolvi projetos que me ajudaram a aplicar essas linguagens e ferramentas na prática, ampliando minha experiência e fortalecendo minha base como desenvolvedor.
 
 <p align="left">
-    <a href="https://my-portfolio-luan.vercel.app/" target="_blank">
+    <a href="https://my-portfolio-luan.vercel.app/">
         <img 
             alt="Meu portfolio" 
             title="Entre Agora" 
             src="https://img.shields.io/badge/%F0%9F%94%97%20Meu%20Portf%C3%B3lio-394DAA?style=for-the-badge&logo=website&labelColor=FFFFFF"
         />
     </a>
-    <a href="https://www.linkedin.com/in/luan-qualhareli-segura-9975b431a/" target="_blank">
+    <a href="https://www.linkedin.com/in/luan-qualhareli-segura-9975b431a/">
         <img 
             alt="Linkedin" 
             title="Meu Linkedin" 
