@@ -150,6 +150,21 @@ Possuo conhecimentos em HTML5, CSS, JavaScript, C, Angular, Java, Python e C#, a
 <br/>
 
 ### 📊 Estatísticas
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=LuanQS2&show_icons=true&theme=onedark)](https://github.com/LuanQS2)
+p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=LuanQS2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=LuanQS2&layout=compact&theme=onedark)](https://github.com/LuanQS2)
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanQS2&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
