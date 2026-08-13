@@ -1,6 +1,6 @@
 <!-- Header Banner Estilizado -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35,45&height=220&section=header&text=Hello%2C%20I%27m%20Luan%20Qualhareli&fontSize=40&fontColor=fff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35,45&height=220&section=header&text=Hello%2C%20I%27m%20Luan%20Qualhareli&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" />
 </p>
 
 <!-- Typing Effect Banner / Animação -->
@@ -16,17 +16,22 @@
 
 <br>
 
-### ⚡ Transformando ideias e regras de negócio em sistemas de ponta a ponta.
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
 
-<div>
-  <!-- Ícone do Computadorzinho / Setup -->
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4V3tMT25/giphy.gif" width="150px" align="right" alt="Coding Setup" style="border-radius: 12px; margin-left: 15px;" />
+<p align="left">
+  <b>Luan Qualhareli Segura</b> • <i>Desenvolvedor de Software</i><br>
+  📍 <i>Araraquara, SP — Brasil</i>
+</p>
 
-  <p>
-    Do banco de dados ao front-end: desenvolvo aplicações completas unindo a solidez e segurança no back-end com a fluidez e reatividade no front-end.
-  </p>
-</div>
+<p>
+  Focado em construir sistemas robustos, arquiteturas escaláveis e interfaces reativas que realmente vão para o ar.
+</p>
 
+<p>
+  Com foco total em transformar ideias em software de alta performance, atuo do banco de dados ao front-end, conectando serviços resilientes a experiências fluidas.
+</p>
+
+<!-- Esta linha abaixo é a mágica: ela impede que a imagem invada a seção de Tecnologias -->
 <br clear="all" />
 
 ---
@@ -54,6 +59,7 @@
   <!-- Banco de Dados & Deploy -->
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
