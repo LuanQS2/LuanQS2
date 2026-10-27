@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3ZnRnbHF1bzdzZmI4bzFyeTRhZmd2Znpsd2p3ZnhqODhwdWZldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="300px" alt="Coding GIF">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="180px" alt="Coding Laptop">
 </p>
 
 <br>
