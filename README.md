@@ -3,10 +3,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35,45&height=220&section=header&text=Hello%2C%20I%27m%20Luan%20Qualhareli&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Seletor de Idioma -->
-<p align="center">
-  <sub>🌐 Selecione o idioma / Select language</sub><br>
-  
+
+<!-- Texto de aviso com margem inferior customizada -->
+<p align="center" style="margin-bottom: 15px;">
+  <sub>🌐 Selecione o idioma / Select language</sub>
+</p>
+
+<!-- Botões de Idioma -->
+<p align="center" style="margin-top: 0;">
   <a href="./README.md">
     <img src="https://img.shields.io/badge/Portugu%C3%Aas-BR-green?style=for-the-badge&logo=brazil" alt="Português" />
   </a>
@@ -14,7 +18,6 @@
     <img src="https://img.shields.io/badge/English-US-blue?style=for-the-badge&logo=united-states" alt="English" />
   </a>
 </p>
-
 <!-- Typing Effect Banner / Animação -->
 <p align="center">
   <a href="https://git.io/typing-svg">
