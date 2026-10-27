@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUGGAC3P4V3tMT25/giphy.gif" width="300px" alt="Coding GIF">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3ZnRnbHF1bzdzZmI4bzFyeTRhZmd2Znpsd2p3ZnhqODhwdWZldSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="300px" alt="Coding GIF">
 </p>
 
 <br>
@@ -68,11 +68,8 @@
 ## 📈 Dashboard & Estatísticas
 
 <p align="center">
-  <!-- Status do GitHub (Usando a API com fallback rápido) -->
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=LuanQS2&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <!-- Linguagens mais usadas -->
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=LuanQS2&layout=compact&theme=radical&hide=html,css"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=LuanQS2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuanQS2&layout=compact&theme=radical&hide=html,css" alt="Top Languages" />
 </p>
 
 ---
