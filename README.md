@@ -20,11 +20,6 @@
   </a>
 </p>
 
-<!-- GIF Animado Estável -->
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-download-in-svg-png-gif-file-formats--developer-logo-programmer-development-pack-business-illustrations-4085817.png?f=webp&h=700" width="280px" alt="Coding GIF">
-</p>
-
 <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
