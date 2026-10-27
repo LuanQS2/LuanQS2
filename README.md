@@ -35,11 +35,11 @@
 </p>
 
 <p>
-  Desenvolvedor de Software dedicado à criação de aplicações funcionais para web e desktop (Windows), unindo a estruturação de bancos de dados, regras de negócio e interfaces dinâmicas.
+  Graduando em <b>Sistemas de Informação</b> e Desenvolvedor de Software focado na criação de aplicações funcionais para web e desktop (Windows), unindo a estruturação de bancos de dados, regras de negócio e interfaces dinâmicas.
 </p>
 
 <p>
-  Com fundamentos sólidos em engenharia de software e em constante evolução técnica, busco aplicar boas práticas e código limpo para resolver problemas reais e agregar valor a equipes de desenvolvimento.
+  Em constante evolução técnica e com visão voltada para a integração de <b>Inteligência Artificial</b> no desenvolvimento de software, busco aplicar boas práticas de engenharia e código limpo para resolver problemas reais e agregar valor a equipes de tecnologia.
 </p>
 
 <!-- Impede que a imagem do computador invada a próxima seção -->
