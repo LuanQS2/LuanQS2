@@ -6,6 +6,7 @@
 <!-- Seletor de Idioma -->
 <p align="center">
   <sub>🌐 Selecione o idioma / Select language</sub><br>
+  
   <a href="./README.md">
     <img src="https://img.shields.io/badge/Portugu%C3%Aas-BR-green?style=for-the-badge&logo=brazil" alt="Português" />
   </a>
@@ -19,11 +20,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;Java+%2B+.NET+%2B+Angular;Desktop+%26+Full+Stack+Dev" alt="Typing SVG" />
   </a>
-</p>
-
-<!-- GIF Animado Estável -->
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-download-in-svg-png-gif-file-formats--developer-logo-programmer-development-pack-business-illustrations-4085817.png?f=webp&h=700" width="280px" alt="Coding GIF">
 </p>
 
 <br>
