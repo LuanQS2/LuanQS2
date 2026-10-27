@@ -3,16 +3,28 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,35,45&height=220&section=header&text=Hello%2C%20I%27m%20Luan%20Qualhareli&fontSize=42&fontColor=fff&animation=fadeIn" width="100%" />
 </p>
 
-<!-- Typing Effect Banner / Animação -->
+<!-- Botões de Alternância de Idioma -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;Java+%2B+.NET+%2B+Angular;Full+Stack+%26+Database+Dev" alt="Typing SVG" />
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Portugu%C3%Aas-BR-green?style=for-the-badge&logo=brazil" alt="Português" />
+  </a>
+  <a href="./README.en.md">
+    <img src="https://img.shields.io/badge/English-US-blue?style=for-the-badge&logo=united-states" alt="English" />
   </a>
 </p>
 
+<!-- Typing Effect Banner / Animação -->
 <p align="center">
-  <img src="./assets/teu-gif.gif" width="300px" alt="Coding GIF">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Developer;Java+%2B+.NET+%2B+Angular;Desktop+%26+Full+Stack+Dev" alt="Typing SVG" />
+  </a>
 </p>
+
+<!-- GIF Animado Estável -->
+<p align="center">
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-illustration-download-in-svg-png-gif-file-formats--developer-logo-programmer-development-pack-business-illustrations-4085817.png?f=webp&h=700" width="280px" alt="Coding GIF">
+</p>
+
 <br>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" width="350px" align="right">
@@ -23,14 +35,14 @@
 </p>
 
 <p>
-  Focado em construir sistemas robustos, arquiteturas escaláveis e interfaces reativas que realmente vão para o ar.
+  Desenvolvedor de Software dedicado à criação de aplicações funcionais para web e desktop (Windows), unindo a estruturação de bancos de dados, regras de negócio e interfaces dinâmicas.
 </p>
 
 <p>
-  Com foco total em transformar ideias em software de alta performance, atuo do banco de dados ao front-end, conectando serviços resilientes a experiências fluidas.
+  Com fundamentos sólidos em engenharia de software e em constante evolução técnica, busco aplicar boas práticas e código limpo para resolver problemas reais e agregar valor a equipes de desenvolvimento.
 </p>
 
-<!-- Esta linha abaixo é a mágica: ela impede que a imagem invada a seção de Tecnologias -->
+<!-- Impede que a imagem do computador invada a próxima seção -->
 <br clear="all" />
 
 ---
